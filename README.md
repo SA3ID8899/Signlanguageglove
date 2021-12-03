@@ -1,6 +1,7 @@
 # Sign_language_glove_Using_Embedded_C
-// Sing language recognition using glove with flex sensors
+// Sign language recognition using glove with flex sensors
 //Eng. Amr Mohamed && Eng. Karim Emad && Eng. Mohamed Said
+// link to Application Video : https://drive.google.com/file/d/1UaXKngRwQXhSYxQSv3RKyjxLTDNoggKf/view?usp=sharing
 
 #include<avr/io.h>
 #include<stdlib.h>
