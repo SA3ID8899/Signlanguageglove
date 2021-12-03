@@ -13,9 +13,9 @@
 
 
 int main() {
-	DIO_init();
-	LCD_init();
-	ADC_init();
+	DIO_init(); //initiation of DIO
+	LCD_init(); //initiation of LCD screen
+	ADC_init(); //initiation of Analog to Digital conversion
 
 	float RESISTANCE_1 = 0; //Storing Digital Output for Sensor 1
 	float RESISTANCE_2 = 0; //Storing Digital Output for Sensor 2
